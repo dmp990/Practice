@@ -1,0 +1,5 @@
+{
+  "name" : "Manish",
+  "course" : "java",
+  "flags" : [ true, false, false, true ]
+}
